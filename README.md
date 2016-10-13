@@ -10,4 +10,6 @@ Exam 1 Q3:
 - Is combining a process or a data store?
 
 Exam 1 Q6:
-- Is acceptance testing evaluation or testing
+
+- Is acceptance testing in the devlopment stage or the evaluation stage>
+- Why is acceptance testing in "Evaluating the solution"
