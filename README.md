@@ -13,7 +13,7 @@ Exam 1 Q6:
 
 - Is acceptance testing in the devlopment stage or the evaluation stage>
 - Why is acceptance testing in "Evaluating the solution"
-- What *is* acceptance testing
+- What **is** acceptance testing
 - Confused between acceptance testing and evaluating
 
 Exam 1 Section C:
