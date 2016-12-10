@@ -1,6 +1,7 @@
 # Softdev-Questions
-Temp repo to store softdev questions for Adrian Janson
+** This is a set of (fairly) comprehensive notes on Adrian Janson's presentation to the 2016 class of VCE Software Development 3/4 (Melbourne High School). The author makes no garuntees about the validity or legitimacy of the infomation. It is provided as-is, in the hopes that it may be of use to future students.**
 
+** Want to view the source? Go to https://github.com/Dalordish/Softdev-Questions **
 
 # Questions about Exams (Janson 2016)
 
