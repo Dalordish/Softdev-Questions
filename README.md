@@ -2,7 +2,7 @@
 Temp repo to store softdev questions for Adrian Janson
 
 
-# Exam 1
+# Questions about Exams (Janson 2016)
 
 Exam 1 Q3:
 
@@ -34,9 +34,11 @@ Answer : Probably can argue for both ways, because it is such an important quali
 
 
 
-#Janson notes:
+# Janson notes:
 
  - You will **not** have general questions like the "write a pseudocode algorithm", or "draw a diagram". They'll just ask you questions about an existing one.
+ 
+ **Author's note : we had a pseudocode writing question in the 2016 VCAA Exam **
 
 
 ## General Exam tips:
